@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Full Stack enthusiast currently pursuing my graduation degree at UBIT, University of Karachi. I'm passionate about web development, and I love working with a stack of technologies to build exciting web applications. When I'm not coding, you can find me buried in a book or tending to my garden.<br>
+Hi there! 👋 I'm Laiba Muhammad Aslam. A Full Stack enthusiast currently pursuing my graduation degree at UBIT, University of Karachi. I'm passionate about web development, and I love working with a stack of technologies to build exciting web applications. When I'm not coding, you can find me buried in a book or tending to my garden.<br>
 
 
 ## 🌐 Socials:
